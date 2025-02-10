@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RAM Characters</string>
+    <string name="two_items_comma_separated">%1$s, %2$s</string>
+    <string name="watch_episodes">Watch episodes</string>
+    <string name="loading">Loading</string>
+    <string name="retry">Retry</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="character_image">Character image</string>
+    <string name="load_error">Ошибка загрузки: %1$s</string>
+    <string name="repeat">Повторить</string>
+    <string name="error_loading_additional_data">Ошибка при загрузке дополнительных данных: %1$s</string>
+    <string name="retry_download">Повторить загрузку</string>
+</resources>
